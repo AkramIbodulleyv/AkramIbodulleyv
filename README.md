@@ -8,8 +8,8 @@
 <h3 align="center">Backend Developer</h3>
 <br />
 <div align="center">
-    ⚡ I am a Backend developer, I develop websites, online stores, SRM systems, and applications.<br />
-    I learned programming in Najot Education using real projects. To learn more about me, visit my <a href="#" target="_blank">portfolio</a>.
+    ⚡ Hello, I am a Backend developer and I graduated from Najot Talim Learning Center. I can create various sites for various platforms and web design.
+     If you want to get to know me, message me on my Gmail. This is my gmail: akramkhonibodullayev@gmail.com <a href="#" target="_blank">portfolio</a>.
 </div>
 <br />
 
