@@ -9,7 +9,7 @@
 <br />
 <div align="center">
     ⚡ Hello, I am a Backend developer and I graduated from Najot Talim Learning Center. I can create various sites for various platforms and web design.
-     If you want to get to know me, message me on my Gmail. This is my gmail: akramkhonibodullayev@gmail.com <a href="#" target="_blank">portfolio</a>.
+     If you want to get to know me, message me on my Gmail. This is my gmail: akramkhonibodullayev@gmail.com 
 </div>
 <br />
 
