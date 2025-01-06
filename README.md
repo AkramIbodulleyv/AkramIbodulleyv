@@ -5,6 +5,11 @@
     <img height="150" style="border-radius: 10px;" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 </h1>
 
+<img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="100%" style="border-radius: 5px;" />
+<h1 align="center">Hello again 👋, I am Akramxon</h1>
+<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+
+
 <h3 align="center">Backend Developer</h3>
 <br />
 <div align="center">
